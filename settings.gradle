@@ -1,0 +1,9 @@
+rootProject.name = 'examenMPP'
+include 'ClientFX'
+include 'Model'
+include 'Networking'
+include 'Persistence'
+include 'Server'
+include 'Services'
+include 'RestServices'
+

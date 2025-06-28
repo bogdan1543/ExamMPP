@@ -1,0 +1,195 @@
+28 Jun 2025 02:39:57,929 DEBUG exam.client.StartJsonClientFX 27 start - In start
+28 Jun 2025 02:39:57,932 INFO  exam.client.StartJsonClientFX 31 start - Client properties set {app.server.port=55556, app.server.host=localhost} 
+28 Jun 2025 02:39:57,932 INFO  exam.client.StartJsonClientFX 47 start - Using server IP localhost
+28 Jun 2025 02:39:57,933 INFO  exam.client.StartJsonClientFX 48 start - Using server port 55556
+28 Jun 2025 02:44:18,830 DEBUG exam.client.StartJsonClientFX 27 start - In start
+28 Jun 2025 02:44:18,833 INFO  exam.client.StartJsonClientFX 31 start - Client properties set {app.server.port=55556, app.server.host=localhost} 
+28 Jun 2025 02:44:18,833 INFO  exam.client.StartJsonClientFX 47 start - Using server IP localhost
+28 Jun 2025 02:44:18,834 INFO  exam.client.StartJsonClientFX 48 start - Using server port 55556
+28 Jun 2025 02:45:47,371 DEBUG exam.client.StartJsonClientFX 27 start - In start
+28 Jun 2025 02:45:47,373 INFO  exam.client.StartJsonClientFX 31 start - Client properties set {app.server.port=55556, app.server.host=localhost} 
+28 Jun 2025 02:45:47,375 INFO  exam.client.StartJsonClientFX 47 start - Using server IP localhost
+28 Jun 2025 02:45:47,375 INFO  exam.client.StartJsonClientFX 48 start - Using server port 55556
+28 Jun 2025 09:24:06,703 DEBUG exam.client.StartJsonClientFX 27 start - In start
+28 Jun 2025 09:24:06,707 INFO  exam.client.StartJsonClientFX 31 start - Client properties set {app.server.port=55556, app.server.host=localhost} 
+28 Jun 2025 09:24:06,708 INFO  exam.client.StartJsonClientFX 47 start - Using server IP localhost
+28 Jun 2025 09:24:06,708 INFO  exam.client.StartJsonClientFX 48 start - Using server port 55556
+28 Jun 2025 09:24:13,061 DEBUG exam.networking.jsonprotocol.AppServicesJsonProxy$ReaderThread 199 run - response received {"type":"OK"}
+28 Jun 2025 09:24:14,088 DEBUG exam.networking.jsonprotocol.AppServicesJsonProxy$ReaderThread 199 run - response received {"type":"ERROR","errorMessage":"Failed to retrieve games"}
+28 Jun 2025 09:24:14,089 ERROR exam.client.controller.MenuController 73 initModel - exam.services.AppException: Failed to retrieve games
+28 Jun 2025 09:24:14,089 ERROR exam.client.controller.MenuController 74 initModel - [Ljava.lang.StackTraceElement;@13f6874c
+28 Jun 2025 09:29:52,641 DEBUG exam.client.StartJsonClientFX 27 start - In start
+28 Jun 2025 09:29:52,651 INFO  exam.client.StartJsonClientFX 31 start - Client properties set {app.server.port=55556, app.server.host=localhost} 
+28 Jun 2025 09:29:52,651 INFO  exam.client.StartJsonClientFX 47 start - Using server IP localhost
+28 Jun 2025 09:29:52,652 INFO  exam.client.StartJsonClientFX 48 start - Using server port 55556
+28 Jun 2025 09:29:58,886 DEBUG exam.networking.jsonprotocol.AppServicesJsonProxy$ReaderThread 199 run - response received {"type":"OK"}
+28 Jun 2025 09:29:59,906 DEBUG exam.networking.jsonprotocol.AppServicesJsonProxy$ReaderThread 199 run - response received {"type":"ERROR","errorMessage":"Failed to retrieve games"}
+28 Jun 2025 09:29:59,907 ERROR exam.client.controller.MenuController 73 initModel - exam.services.AppException: Failed to retrieve games
+28 Jun 2025 09:29:59,907 ERROR exam.client.controller.MenuController 74 initModel - [Ljava.lang.StackTraceElement;@13f6874c
+28 Jun 2025 09:31:17,559 DEBUG exam.client.StartJsonClientFX 27 start - In start
+28 Jun 2025 09:31:17,562 INFO  exam.client.StartJsonClientFX 31 start - Client properties set {app.server.port=55556, app.server.host=localhost} 
+28 Jun 2025 09:31:17,563 INFO  exam.client.StartJsonClientFX 47 start - Using server IP localhost
+28 Jun 2025 09:31:17,563 INFO  exam.client.StartJsonClientFX 48 start - Using server port 55556
+28 Jun 2025 09:31:22,293 DEBUG exam.networking.jsonprotocol.AppServicesJsonProxy$ReaderThread 199 run - response received {"type":"OK"}
+28 Jun 2025 09:31:23,310 DEBUG exam.networking.jsonprotocol.AppServicesJsonProxy$ReaderThread 199 run - response received {"type":"ERROR","errorMessage":"Failed to retrieve games"}
+28 Jun 2025 09:31:23,312 ERROR exam.client.controller.MenuController 73 initModel - exam.services.AppException: Failed to retrieve games
+28 Jun 2025 09:31:23,312 ERROR exam.client.controller.MenuController 74 initModel - [Ljava.lang.StackTraceElement;@308fe993
+28 Jun 2025 09:33:52,396 DEBUG exam.client.StartJsonClientFX 27 start - In start
+28 Jun 2025 09:33:52,399 INFO  exam.client.StartJsonClientFX 31 start - Client properties set {app.server.port=55556, app.server.host=localhost} 
+28 Jun 2025 09:33:52,400 INFO  exam.client.StartJsonClientFX 47 start - Using server IP localhost
+28 Jun 2025 09:33:52,400 INFO  exam.client.StartJsonClientFX 48 start - Using server port 55556
+28 Jun 2025 09:33:57,190 DEBUG exam.networking.jsonprotocol.AppServicesJsonProxy$ReaderThread 199 run - response received {"type":"OK"}
+28 Jun 2025 09:33:58,199 DEBUG exam.networking.jsonprotocol.AppServicesJsonProxy$ReaderThread 199 run - response received {"type":"ERROR","errorMessage":"Failed to retrieve games"}
+28 Jun 2025 09:33:58,200 ERROR exam.client.controller.MenuController 73 initModel - exam.services.AppException: Failed to retrieve games
+28 Jun 2025 09:33:58,200 ERROR exam.client.controller.MenuController 74 initModel - [Ljava.lang.StackTraceElement;@308fe993
+28 Jun 2025 09:36:17,274 DEBUG exam.client.StartJsonClientFX 27 start - In start
+28 Jun 2025 09:36:17,277 INFO  exam.client.StartJsonClientFX 31 start - Client properties set {app.server.port=55556, app.server.host=localhost} 
+28 Jun 2025 09:36:17,277 INFO  exam.client.StartJsonClientFX 47 start - Using server IP localhost
+28 Jun 2025 09:36:17,277 INFO  exam.client.StartJsonClientFX 48 start - Using server port 55556
+28 Jun 2025 09:36:21,599 DEBUG exam.networking.jsonprotocol.AppServicesJsonProxy$ReaderThread 199 run - response received {"type":"OK"}
+28 Jun 2025 09:36:22,609 DEBUG exam.networking.jsonprotocol.AppServicesJsonProxy$ReaderThread 199 run - response received {"type":"ERROR","errorMessage":"Failed to retrieve games"}
+28 Jun 2025 09:36:22,609 ERROR exam.client.controller.MenuController 73 initModel - exam.services.AppException: Failed to retrieve games
+28 Jun 2025 09:36:22,611 ERROR exam.client.controller.MenuController 74 initModel - [Ljava.lang.StackTraceElement;@308fe993
+28 Jun 2025 09:37:12,314 DEBUG exam.client.StartJsonClientFX 27 start - In start
+28 Jun 2025 09:37:12,316 INFO  exam.client.StartJsonClientFX 31 start - Client properties set {app.server.port=55556, app.server.host=localhost} 
+28 Jun 2025 09:37:12,316 INFO  exam.client.StartJsonClientFX 47 start - Using server IP localhost
+28 Jun 2025 09:37:12,317 INFO  exam.client.StartJsonClientFX 48 start - Using server port 55556
+28 Jun 2025 09:37:16,019 DEBUG exam.networking.jsonprotocol.AppServicesJsonProxy$ReaderThread 199 run - response received {"type":"OK"}
+28 Jun 2025 09:37:17,029 DEBUG exam.networking.jsonprotocol.AppServicesJsonProxy$ReaderThread 199 run - response received {"type":"ERROR","errorMessage":"Failed to retrieve games"}
+28 Jun 2025 09:37:17,029 ERROR exam.client.controller.MenuController 73 initModel - exam.services.AppException: Failed to retrieve games
+28 Jun 2025 09:37:17,030 ERROR exam.client.controller.MenuController 74 initModel - [Ljava.lang.StackTraceElement;@308fe993
+28 Jun 2025 09:39:02,675 DEBUG exam.client.StartJsonClientFX 27 start - In start
+28 Jun 2025 09:39:02,678 INFO  exam.client.StartJsonClientFX 31 start - Client properties set {app.server.port=55556, app.server.host=localhost} 
+28 Jun 2025 09:39:02,678 INFO  exam.client.StartJsonClientFX 47 start - Using server IP localhost
+28 Jun 2025 09:39:02,678 INFO  exam.client.StartJsonClientFX 48 start - Using server port 55556
+28 Jun 2025 09:39:07,329 DEBUG exam.networking.jsonprotocol.AppServicesJsonProxy$ReaderThread 199 run - response received {"type":"OK"}
+28 Jun 2025 09:39:08,342 DEBUG exam.networking.jsonprotocol.AppServicesJsonProxy$ReaderThread 199 run - response received {"type":"ERROR","errorMessage":"Failed to retrieve games"}
+28 Jun 2025 09:39:08,343 ERROR exam.client.controller.MenuController 73 initModel - exam.services.AppException: Failed to retrieve games
+28 Jun 2025 09:39:08,344 ERROR exam.client.controller.MenuController 74 initModel - [Ljava.lang.StackTraceElement;@28d87d3
+28 Jun 2025 09:42:48,368 DEBUG exam.client.StartJsonClientFX 27 start - In start
+28 Jun 2025 09:42:48,370 INFO  exam.client.StartJsonClientFX 31 start - Client properties set {app.server.port=55556, app.server.host=localhost} 
+28 Jun 2025 09:42:48,371 INFO  exam.client.StartJsonClientFX 47 start - Using server IP localhost
+28 Jun 2025 09:42:48,371 INFO  exam.client.StartJsonClientFX 48 start - Using server port 55556
+28 Jun 2025 09:42:53,500 DEBUG exam.networking.jsonprotocol.AppServicesJsonProxy$ReaderThread 199 run - response received {"type":"OK"}
+28 Jun 2025 09:42:54,514 DEBUG exam.networking.jsonprotocol.AppServicesJsonProxy$ReaderThread 199 run - response received {"type":"ERROR","errorMessage":"Failed to retrieve games"}
+28 Jun 2025 09:42:54,515 ERROR exam.client.controller.MenuController 73 initModel - exam.services.AppException: Failed to retrieve games
+28 Jun 2025 09:42:54,515 ERROR exam.client.controller.MenuController 74 initModel - [Ljava.lang.StackTraceElement;@4e1fe8b0
+28 Jun 2025 09:45:49,788 DEBUG exam.client.StartJsonClientFX 27 start - In start
+28 Jun 2025 09:45:49,791 INFO  exam.client.StartJsonClientFX 31 start - Client properties set {app.server.port=55556, app.server.host=localhost} 
+28 Jun 2025 09:45:49,792 INFO  exam.client.StartJsonClientFX 47 start - Using server IP localhost
+28 Jun 2025 09:45:49,792 INFO  exam.client.StartJsonClientFX 48 start - Using server port 55556
+28 Jun 2025 09:45:53,799 DEBUG exam.networking.jsonprotocol.AppServicesJsonProxy$ReaderThread 199 run - response received {"type":"OK"}
+28 Jun 2025 09:45:54,807 DEBUG exam.networking.jsonprotocol.AppServicesJsonProxy$ReaderThread 199 run - response received {"type":"ERROR","errorMessage":"Failed to retrieve games"}
+28 Jun 2025 09:45:54,809 ERROR exam.client.controller.MenuController 73 initModel - exam.services.AppException: Failed to retrieve games
+28 Jun 2025 09:45:54,810 ERROR exam.client.controller.MenuController 74 initModel - [Ljava.lang.StackTraceElement;@308fe993
+28 Jun 2025 09:46:44,334 DEBUG exam.client.StartJsonClientFX 27 start - In start
+28 Jun 2025 09:46:44,336 INFO  exam.client.StartJsonClientFX 31 start - Client properties set {app.server.port=55556, app.server.host=localhost} 
+28 Jun 2025 09:46:44,336 INFO  exam.client.StartJsonClientFX 47 start - Using server IP localhost
+28 Jun 2025 09:46:44,337 INFO  exam.client.StartJsonClientFX 48 start - Using server port 55556
+28 Jun 2025 09:46:49,222 DEBUG exam.networking.jsonprotocol.AppServicesJsonProxy$ReaderThread 199 run - response received {"type":"OK"}
+28 Jun 2025 09:46:50,235 DEBUG exam.networking.jsonprotocol.AppServicesJsonProxy$ReaderThread 199 run - response received {"type":"ERROR","errorMessage":"Failed to retrieve games"}
+28 Jun 2025 09:46:50,236 ERROR exam.client.controller.MenuController 73 initModel - exam.services.AppException: Failed to retrieve games
+28 Jun 2025 09:46:50,237 ERROR exam.client.controller.MenuController 74 initModel - [Ljava.lang.StackTraceElement;@28d87d3
+28 Jun 2025 09:47:59,339 DEBUG exam.client.StartJsonClientFX 27 start - In start
+28 Jun 2025 09:47:59,342 INFO  exam.client.StartJsonClientFX 31 start - Client properties set {app.server.port=55556, app.server.host=localhost} 
+28 Jun 2025 09:47:59,342 INFO  exam.client.StartJsonClientFX 47 start - Using server IP localhost
+28 Jun 2025 09:47:59,342 INFO  exam.client.StartJsonClientFX 48 start - Using server port 55556
+28 Jun 2025 09:48:03,861 DEBUG exam.networking.jsonprotocol.AppServicesJsonProxy$ReaderThread 199 run - response received {"type":"OK"}
+28 Jun 2025 09:48:04,894 DEBUG exam.networking.jsonprotocol.AppServicesJsonProxy$ReaderThread 199 run - response received {"type":"GET_GAMES","games":[{"alias":"bogdan","score":10,"time":11.0}]}
+28 Jun 2025 09:48:04,896 DEBUG exam.client.controller.MenuController 68 initModel - games:[exam.model.GameDTO@59fd777c]
+28 Jun 2025 09:48:05,909 DEBUG exam.networking.jsonprotocol.AppServicesJsonProxy$ReaderThread 199 run - response received {"type":"GET_QUESTIONS","questions":[{"id":1,"difficulty":1,"question":"ana are mere?","answer":"da"}]}
+28 Jun 2025 09:49:30,526 DEBUG exam.client.StartJsonClientFX 27 start - In start
+28 Jun 2025 09:49:30,528 INFO  exam.client.StartJsonClientFX 31 start - Client properties set {app.server.port=55556, app.server.host=localhost} 
+28 Jun 2025 09:49:30,530 INFO  exam.client.StartJsonClientFX 47 start - Using server IP localhost
+28 Jun 2025 09:49:30,530 INFO  exam.client.StartJsonClientFX 48 start - Using server port 55556
+28 Jun 2025 09:49:34,664 DEBUG exam.networking.jsonprotocol.AppServicesJsonProxy$ReaderThread 199 run - response received {"type":"OK"}
+28 Jun 2025 09:49:35,683 DEBUG exam.networking.jsonprotocol.AppServicesJsonProxy$ReaderThread 199 run - response received {"type":"GET_GAMES","games":[{"alias":"bogdan","score":10,"time":11.0}]}
+28 Jun 2025 09:49:35,686 DEBUG exam.client.controller.MenuController 68 initModel - games:[exam.model.GameDTO@59fd777c]
+28 Jun 2025 09:49:36,688 DEBUG exam.networking.jsonprotocol.AppServicesJsonProxy$ReaderThread 199 run - response received {"type":"GET_QUESTIONS","questions":[{"id":1,"difficulty":1,"question":"ana are mere?","answer":"da"}]}
+28 Jun 2025 09:49:39,090 DEBUG exam.networking.jsonprotocol.AppServicesJsonProxy$ReaderThread 199 run - response received {"type":"GET_QUESTIONS","questions":[{"id":1,"difficulty":1,"question":"ana are mere?","answer":"da"}]}
+28 Jun 2025 09:51:45,509 DEBUG exam.client.StartJsonClientFX 27 start - In start
+28 Jun 2025 09:51:45,511 INFO  exam.client.StartJsonClientFX 31 start - Client properties set {app.server.port=55556, app.server.host=localhost} 
+28 Jun 2025 09:51:45,511 INFO  exam.client.StartJsonClientFX 47 start - Using server IP localhost
+28 Jun 2025 09:51:45,511 INFO  exam.client.StartJsonClientFX 48 start - Using server port 55556
+28 Jun 2025 09:51:50,412 DEBUG exam.networking.jsonprotocol.AppServicesJsonProxy$ReaderThread 199 run - response received {"type":"OK"}
+28 Jun 2025 09:51:51,441 DEBUG exam.networking.jsonprotocol.AppServicesJsonProxy$ReaderThread 199 run - response received {"type":"GET_GAMES","games":[{"alias":"bogdan","score":10,"time":11.0}]}
+28 Jun 2025 09:51:51,445 DEBUG exam.client.controller.MenuController 68 initModel - games:[exam.model.GameDTO@59fd777c]
+28 Jun 2025 09:51:52,455 DEBUG exam.networking.jsonprotocol.AppServicesJsonProxy$ReaderThread 199 run - response received {"type":"GET_QUESTIONS","questions":[{"id":1,"difficulty":1,"question":"ana are mere?","answer":"da"},{"id":2,"difficulty":1,"question":"1+1","answer":"2"}]}
+28 Jun 2025 09:52:04,343 DEBUG exam.networking.jsonprotocol.AppServicesJsonProxy$ReaderThread 199 run - response received {"type":"GET_QUESTIONS","questions":[{"id":1,"difficulty":1,"question":"ana are mere?","answer":"da"},{"id":2,"difficulty":1,"question":"1+1","answer":"2"}]}
+28 Jun 2025 09:52:11,759 DEBUG exam.networking.jsonprotocol.AppServicesJsonProxy 156 saveGame - Request type: GAME_FINISH
+28 Jun 2025 09:52:11,798 DEBUG exam.networking.jsonprotocol.AppServicesJsonProxy$ReaderThread 199 run - response received {"type":"OK"}
+28 Jun 2025 09:52:11,799 DEBUG exam.networking.jsonprotocol.AppServicesJsonProxy$ReaderThread 199 run - response received {"type":"NEW_GAME","game":{"id":2,"alias":"bogdan","score":-4,"startTime":"2025-06-28T09:52:04.3357318","endTime":"2025-06-28T09:52:11.7598563"}}
+28 Jun 2025 09:52:11,801 DEBUG exam.networking.jsonprotocol.AppServicesJsonProxy 113 handleUpdate - New game exam.model.Game@113f1fdd
+28 Jun 2025 09:52:12,813 DEBUG exam.networking.jsonprotocol.AppServicesJsonProxy$ReaderThread 199 run - response received {"type":"GET_GAMES","games":[{"alias":"bogdan","score":10,"time":11.0},{"alias":"bogdan","score":-4,"time":7.424}]}
+28 Jun 2025 09:52:12,814 DEBUG exam.client.controller.MenuController 68 initModel - games:[exam.model.GameDTO@5cc4a4b6, exam.model.GameDTO@4ca6b30e]
+28 Jun 2025 09:52:12,814 DEBUG exam.client.controller.MenuController 84 lambda$gameFinish$0 - List updated
+28 Jun 2025 09:54:09,733 DEBUG exam.client.StartJsonClientFX 27 start - In start
+28 Jun 2025 09:54:09,736 INFO  exam.client.StartJsonClientFX 31 start - Client properties set {app.server.port=55556, app.server.host=localhost} 
+28 Jun 2025 09:54:09,736 INFO  exam.client.StartJsonClientFX 47 start - Using server IP localhost
+28 Jun 2025 09:54:09,736 INFO  exam.client.StartJsonClientFX 48 start - Using server port 55556
+28 Jun 2025 09:54:14,873 DEBUG exam.networking.jsonprotocol.AppServicesJsonProxy$ReaderThread 199 run - response received {"type":"OK"}
+28 Jun 2025 09:54:15,899 DEBUG exam.networking.jsonprotocol.AppServicesJsonProxy$ReaderThread 199 run - response received {"type":"GET_GAMES","games":[{"alias":"bogdan","score":10,"time":11.0},{"alias":"bogdan","score":-4,"time":7.424}]}
+28 Jun 2025 09:54:15,902 DEBUG exam.client.controller.MenuController 71 initModel - games:[exam.model.GameDTO@308fe993, exam.model.GameDTO@28d87d3]
+28 Jun 2025 09:54:16,914 DEBUG exam.networking.jsonprotocol.AppServicesJsonProxy$ReaderThread 199 run - response received {"type":"GET_QUESTIONS","questions":[{"id":1,"difficulty":1,"question":"ana are mere?","answer":"da"},{"id":2,"difficulty":1,"question":"1+1","answer":"2"}]}
+28 Jun 2025 09:54:21,012 DEBUG exam.networking.jsonprotocol.AppServicesJsonProxy$ReaderThread 199 run - response received {"type":"GET_QUESTIONS","questions":[{"id":1,"difficulty":1,"question":"ana are mere?","answer":"da"},{"id":2,"difficulty":1,"question":"1+1","answer":"2"}]}
+28 Jun 2025 09:54:23,690 DEBUG exam.networking.jsonprotocol.AppServicesJsonProxy$ReaderThread 199 run - response received {"type":"GET_QUESTIONS","questions":[{"id":3,"difficulty":2,"question":"2+2","answer":"4"},{"id":4,"difficulty":2,"question":"2+3","answer":"5"}]}
+28 Jun 2025 09:54:33,394 DEBUG exam.networking.jsonprotocol.AppServicesJsonProxy$ReaderThread 199 run - response received {"type":"GET_QUESTIONS","questions":[{"id":3,"difficulty":2,"question":"2+2","answer":"4"},{"id":4,"difficulty":2,"question":"2+3","answer":"5"}]}
+28 Jun 2025 09:54:46,645 DEBUG exam.networking.jsonprotocol.AppServicesJsonProxy$ReaderThread 199 run - response received {"type":"GET_QUESTIONS","questions":[{"id":3,"difficulty":2,"question":"2+2","answer":"4"},{"id":4,"difficulty":2,"question":"2+3","answer":"5"}]}
+28 Jun 2025 09:55:08,235 DEBUG exam.networking.jsonprotocol.AppServicesJsonProxy$ReaderThread 199 run - response received {"type":"GET_QUESTIONS","questions":[{"id":3,"difficulty":2,"question":"2+2","answer":"4"},{"id":4,"difficulty":2,"question":"2+3","answer":"5"}]}
+28 Jun 2025 10:00:34,402 DEBUG exam.client.StartJsonClientFX 27 start - In start
+28 Jun 2025 10:00:34,405 INFO  exam.client.StartJsonClientFX 31 start - Client properties set {app.server.port=55556, app.server.host=localhost} 
+28 Jun 2025 10:00:34,406 INFO  exam.client.StartJsonClientFX 47 start - Using server IP localhost
+28 Jun 2025 10:00:34,406 INFO  exam.client.StartJsonClientFX 48 start - Using server port 55556
+28 Jun 2025 10:00:39,003 DEBUG exam.networking.jsonprotocol.AppServicesJsonProxy$ReaderThread 199 run - response received {"type":"OK"}
+28 Jun 2025 10:00:40,022 DEBUG exam.networking.jsonprotocol.AppServicesJsonProxy$ReaderThread 199 run - response received {"type":"GET_GAMES","games":[{"alias":"bogdan","score":10,"time":11.0},{"alias":"bogdan","score":-4,"time":7.424}]}
+28 Jun 2025 10:00:40,025 DEBUG exam.client.controller.MenuController 71 initModel - games:[exam.model.GameDTO@27b3837, exam.model.GameDTO@308fe993]
+28 Jun 2025 10:00:41,038 DEBUG exam.networking.jsonprotocol.AppServicesJsonProxy$ReaderThread 199 run - response received {"type":"GET_QUESTIONS","questions":[{"id":1,"difficulty":1,"question":"ana are mere?","answer":"da"},{"id":2,"difficulty":1,"question":"1+1","answer":"2"}]}
+28 Jun 2025 10:00:45,305 DEBUG exam.networking.jsonprotocol.AppServicesJsonProxy$ReaderThread 199 run - response received {"type":"GET_QUESTIONS","questions":[{"id":1,"difficulty":1,"question":"ana are mere?","answer":"da"},{"id":2,"difficulty":1,"question":"1+1","answer":"2"}]}
+28 Jun 2025 10:00:46,744 DEBUG exam.networking.jsonprotocol.AppServicesJsonProxy$ReaderThread 199 run - response received {"type":"GET_QUESTIONS","questions":[{"id":1,"difficulty":1,"question":"ana are mere?","answer":"da"},{"id":2,"difficulty":1,"question":"1+1","answer":"2"}]}
+28 Jun 2025 10:02:17,111 DEBUG exam.client.StartJsonClientFX 27 start - In start
+28 Jun 2025 10:02:17,114 INFO  exam.client.StartJsonClientFX 31 start - Client properties set {app.server.port=55556, app.server.host=localhost} 
+28 Jun 2025 10:02:17,114 INFO  exam.client.StartJsonClientFX 47 start - Using server IP localhost
+28 Jun 2025 10:02:17,114 INFO  exam.client.StartJsonClientFX 48 start - Using server port 55556
+28 Jun 2025 10:02:22,427 DEBUG exam.networking.jsonprotocol.AppServicesJsonProxy$ReaderThread 199 run - response received {"type":"OK"}
+28 Jun 2025 10:02:23,446 DEBUG exam.networking.jsonprotocol.AppServicesJsonProxy$ReaderThread 199 run - response received {"type":"GET_GAMES","games":[{"alias":"bogdan","score":10,"time":11.0},{"alias":"bogdan","score":-4,"time":7.424}]}
+28 Jun 2025 10:02:23,449 DEBUG exam.client.controller.MenuController 71 initModel - games:[exam.model.GameDTO@5065c016, exam.model.GameDTO@2e20518b]
+28 Jun 2025 10:02:24,465 DEBUG exam.networking.jsonprotocol.AppServicesJsonProxy$ReaderThread 199 run - response received {"type":"GET_QUESTIONS","questions":[{"id":1,"difficulty":1,"question":"ana are mere?","answer":"da"},{"id":2,"difficulty":1,"question":"1+1","answer":"2"}]}
+28 Jun 2025 10:02:26,049 DEBUG exam.networking.jsonprotocol.AppServicesJsonProxy$ReaderThread 199 run - response received {"type":"GET_QUESTIONS","questions":[{"id":1,"difficulty":1,"question":"ana are mere?","answer":"da"},{"id":2,"difficulty":1,"question":"1+1","answer":"2"}]}
+28 Jun 2025 10:02:27,484 DEBUG exam.networking.jsonprotocol.AppServicesJsonProxy$ReaderThread 199 run - response received {"type":"GET_QUESTIONS","questions":[{"id":1,"difficulty":1,"question":"ana are mere?","answer":"da"},{"id":2,"difficulty":1,"question":"1+1","answer":"2"}]}
+28 Jun 2025 10:05:39,726 DEBUG exam.client.StartJsonClientFX 27 start - In start
+28 Jun 2025 10:05:39,729 INFO  exam.client.StartJsonClientFX 31 start - Client properties set {app.server.port=55556, app.server.host=localhost} 
+28 Jun 2025 10:05:39,729 INFO  exam.client.StartJsonClientFX 47 start - Using server IP localhost
+28 Jun 2025 10:05:39,729 INFO  exam.client.StartJsonClientFX 48 start - Using server port 55556
+28 Jun 2025 10:05:44,703 DEBUG exam.networking.jsonprotocol.AppServicesJsonProxy$ReaderThread 199 run - response received {"type":"OK"}
+28 Jun 2025 10:05:45,733 DEBUG exam.networking.jsonprotocol.AppServicesJsonProxy$ReaderThread 199 run - response received {"type":"GET_GAMES","games":[{"alias":"bogdan","score":10,"time":11.0},{"alias":"bogdan","score":-4,"time":7.424}]}
+28 Jun 2025 10:05:45,736 DEBUG exam.client.controller.MenuController 71 initModel - games:[exam.model.GameDTO@27b3837, exam.model.GameDTO@308fe993]
+28 Jun 2025 10:05:46,751 DEBUG exam.networking.jsonprotocol.AppServicesJsonProxy$ReaderThread 199 run - response received {"type":"GET_QUESTIONS","questions":[{"id":1,"difficulty":1,"question":"ana are mere?","answer":"da"},{"id":2,"difficulty":1,"question":"1+1","answer":"2"}]}
+28 Jun 2025 10:05:50,247 DEBUG exam.networking.jsonprotocol.AppServicesJsonProxy$ReaderThread 199 run - response received {"type":"GET_QUESTIONS","questions":[{"id":1,"difficulty":1,"question":"ana are mere?","answer":"da"},{"id":2,"difficulty":1,"question":"1+1","answer":"2"}]}
+28 Jun 2025 10:05:51,941 DEBUG exam.networking.jsonprotocol.AppServicesJsonProxy$ReaderThread 199 run - response received {"type":"GET_QUESTIONS","questions":[{"id":3,"difficulty":2,"question":"2+2","answer":"4"},{"id":4,"difficulty":2,"question":"2+3","answer":"5"}]}
+28 Jun 2025 10:05:53,698 DEBUG exam.networking.jsonprotocol.AppServicesJsonProxy$ReaderThread 199 run - response received {"type":"GET_QUESTIONS","questions":[{"id":3,"difficulty":2,"question":"2+2","answer":"4"},{"id":4,"difficulty":2,"question":"2+3","answer":"5"}]}
+28 Jun 2025 10:05:55,830 DEBUG exam.networking.jsonprotocol.AppServicesJsonProxy$ReaderThread 199 run - response received {"type":"GET_QUESTIONS","questions":[{"id":5,"difficulty":3,"question":"3+3","answer":"6"},{"id":6,"difficulty":3,"question":"10+10","answer":"20"}]}
+28 Jun 2025 10:05:57,783 DEBUG exam.networking.jsonprotocol.AppServicesJsonProxy$ReaderThread 199 run - response received {"type":"GET_QUESTIONS","questions":[{"id":5,"difficulty":3,"question":"3+3","answer":"6"},{"id":6,"difficulty":3,"question":"10+10","answer":"20"}]}
+28 Jun 2025 10:06:00,646 DEBUG exam.networking.jsonprotocol.AppServicesJsonProxy 156 saveGame - Request type: GAME_FINISH
+28 Jun 2025 10:06:00,679 DEBUG exam.networking.jsonprotocol.AppServicesJsonProxy$ReaderThread 199 run - response received {"type":"OK"}
+28 Jun 2025 10:06:00,680 DEBUG exam.networking.jsonprotocol.AppServicesJsonProxy$ReaderThread 199 run - response received {"type":"NEW_GAME","game":{"id":3,"alias":"bogdan","score":112,"startTime":"2025-06-28T10:05:50.2404331","endTime":"2025-06-28T10:06:00.6461449"}}
+28 Jun 2025 10:06:00,682 DEBUG exam.networking.jsonprotocol.AppServicesJsonProxy 113 handleUpdate - New game exam.model.Game@5659e793
+28 Jun 2025 10:06:01,696 DEBUG exam.networking.jsonprotocol.AppServicesJsonProxy$ReaderThread 199 run - response received {"type":"GET_GAMES","games":[{"alias":"bogdan","score":112,"time":10.406},{"alias":"bogdan","score":10,"time":11.0},{"alias":"bogdan","score":-4,"time":7.424}]}
+28 Jun 2025 10:06:01,697 DEBUG exam.client.controller.MenuController 71 initModel - games:[exam.model.GameDTO@1eaa69f8, exam.model.GameDTO@a12d85c, exam.model.GameDTO@3a3a7c8b]
+28 Jun 2025 10:06:01,697 DEBUG exam.client.controller.MenuController 87 lambda$gameFinish$0 - List updated
+28 Jun 2025 10:06:47,793 DEBUG exam.client.StartJsonClientFX 27 start - In start
+28 Jun 2025 10:06:47,796 INFO  exam.client.StartJsonClientFX 31 start - Client properties set {app.server.port=55556, app.server.host=localhost} 
+28 Jun 2025 10:06:47,796 INFO  exam.client.StartJsonClientFX 47 start - Using server IP localhost
+28 Jun 2025 10:06:47,796 INFO  exam.client.StartJsonClientFX 48 start - Using server port 55556
+28 Jun 2025 10:06:53,605 DEBUG exam.networking.jsonprotocol.AppServicesJsonProxy$ReaderThread 199 run - response received {"type":"OK"}
+28 Jun 2025 10:06:54,637 DEBUG exam.networking.jsonprotocol.AppServicesJsonProxy$ReaderThread 199 run - response received {"type":"GET_GAMES","games":[{"alias":"bogdan","score":112,"time":10.406},{"alias":"bogdan","score":10,"time":11.0},{"alias":"bogdan","score":-4,"time":7.424}]}
+28 Jun 2025 10:06:54,639 DEBUG exam.client.controller.MenuController 71 initModel - games:[exam.model.GameDTO@308fe993, exam.model.GameDTO@28d87d3, exam.model.GameDTO@157ed0a8]
+28 Jun 2025 10:06:55,651 DEBUG exam.networking.jsonprotocol.AppServicesJsonProxy$ReaderThread 199 run - response received {"type":"GET_QUESTIONS","questions":[{"id":1,"difficulty":1,"question":"ana are mere?","answer":"da"},{"id":2,"difficulty":1,"question":"1+1","answer":"2"},{"id":7,"difficulty":1,"question":"0+1","answer":"1"}]}
+28 Jun 2025 10:07:06,894 DEBUG exam.networking.jsonprotocol.AppServicesJsonProxy$ReaderThread 199 run - response received {"type":"GET_QUESTIONS","questions":[{"id":1,"difficulty":1,"question":"ana are mere?","answer":"da"},{"id":2,"difficulty":1,"question":"1+1","answer":"2"},{"id":7,"difficulty":1,"question":"0+1","answer":"1"}]}
+28 Jun 2025 10:07:10,287 DEBUG exam.networking.jsonprotocol.AppServicesJsonProxy$ReaderThread 199 run - response received {"type":"GET_QUESTIONS","questions":[{"id":1,"difficulty":1,"question":"ana are mere?","answer":"da"},{"id":2,"difficulty":1,"question":"1+1","answer":"2"},{"id":7,"difficulty":1,"question":"0+1","answer":"1"}]}
+28 Jun 2025 10:07:14,996 DEBUG exam.networking.jsonprotocol.AppServicesJsonProxy 156 saveGame - Request type: GAME_FINISH
+28 Jun 2025 10:07:15,028 DEBUG exam.networking.jsonprotocol.AppServicesJsonProxy$ReaderThread 199 run - response received {"type":"OK"}
+28 Jun 2025 10:07:15,029 DEBUG exam.networking.jsonprotocol.AppServicesJsonProxy$ReaderThread 199 run - response received {"type":"NEW_GAME","game":{"id":4,"alias":"bogdan","score":0,"startTime":"2025-06-28T10:07:06.8858369","endTime":"2025-06-28T10:07:14.9963423"}}
+28 Jun 2025 10:07:15,031 DEBUG exam.networking.jsonprotocol.AppServicesJsonProxy 113 handleUpdate - New game exam.model.Game@7b54344a
+28 Jun 2025 10:07:16,036 DEBUG exam.networking.jsonprotocol.AppServicesJsonProxy$ReaderThread 199 run - response received {"type":"GET_GAMES","games":[{"alias":"bogdan","score":112,"time":10.406},{"alias":"bogdan","score":10,"time":11.0},{"alias":"bogdan","score":0,"time":8.111},{"alias":"bogdan","score":-4,"time":7.424}]}
+28 Jun 2025 10:07:16,036 DEBUG exam.client.controller.MenuController 71 initModel - games:[exam.model.GameDTO@1e19c7f6, exam.model.GameDTO@1eaa69f8, exam.model.GameDTO@a12d85c, exam.model.GameDTO@3a3a7c8b]
+28 Jun 2025 10:07:16,036 DEBUG exam.client.controller.MenuController 87 lambda$gameFinish$0 - List updated

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.*?>
+<?import javafx.scene.layout.*?>
+
+<AnchorPane prefHeight="400.0" prefWidth="600.0" xmlns="http://javafx.com/javafx/17.0.2-ea" xmlns:fx="http://javafx.com/fxml/1" fx:controller="exam.client.controller.MenuController">
+   <children>
+      <TextArea fx:id="answerTextArea" layoutX="33.0" layoutY="230.0" prefHeight="34.0" prefWidth="260.0" promptText="raspunsa" />
+      <Label fx:id="questionLabel" layoutX="149.0" layoutY="175.0" text="intrebare" />
+      <Button layoutX="147.0" layoutY="286.0" mnemonicParsing="false" text="submit" onAction="#handleSubmit" />
+
+      <TableView fx:id="tableView" layoutX="349.0" layoutY="82.0" prefHeight="200.0" prefWidth="200.0">
+         <columns>
+            <TableColumn fx:id="tableColumnAlias" prefWidth="90.0" text="alias" />
+            <TableColumn fx:id="tableColumnScore" prefWidth="51.0" text="score" />
+            <TableColumn fx:id="tableColumnTime" prefWidth="58.0" text="time" />
+         </columns>
+      </TableView>
+   </children>
+</AnchorPane>

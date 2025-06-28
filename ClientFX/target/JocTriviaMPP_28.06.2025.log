@@ -1,0 +1,8 @@
+28 Jun 2025 10:11:32,943 DEBUG exam.client.StartJsonClientFX 27 start - In start
+28 Jun 2025 10:11:32,945 INFO  exam.client.StartJsonClientFX 31 start - Client properties set {app.server.port=55556, app.server.host=localhost} 
+28 Jun 2025 10:11:32,946 INFO  exam.client.StartJsonClientFX 47 start - Using server IP localhost
+28 Jun 2025 10:11:32,946 INFO  exam.client.StartJsonClientFX 48 start - Using server port 55556
+28 Jun 2025 10:11:38,011 DEBUG exam.networking.jsonprotocol.AppServicesJsonProxy$ReaderThread 199 run - response received {"type":"OK"}
+28 Jun 2025 10:11:39,036 DEBUG exam.networking.jsonprotocol.AppServicesJsonProxy$ReaderThread 199 run - response received {"type":"GET_GAMES","games":[{"alias":"bogdan","score":112,"time":10.406},{"alias":"bogdan","score":10,"time":11.0},{"alias":"bogdan","score":0,"time":8.111},{"alias":"bogdan","score":-4,"time":7.424}]}
+28 Jun 2025 10:11:39,040 DEBUG exam.client.controller.MenuController 71 initModel - games:[exam.model.GameDTO@27b3837, exam.model.GameDTO@308fe993, exam.model.GameDTO@28d87d3, exam.model.GameDTO@157ed0a8]
+28 Jun 2025 10:11:40,051 DEBUG exam.networking.jsonprotocol.AppServicesJsonProxy$ReaderThread 199 run - response received {"type":"GET_QUESTIONS","questions":[{"id":1,"difficulty":1,"question":"ana are mere?","answer":"da"},{"id":2,"difficulty":1,"question":"1+1","answer":"2"},{"id":7,"difficulty":1,"question":"0+1","answer":"1"}]}
